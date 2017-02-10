@@ -70,6 +70,8 @@ $ open docs/index.html
 
 - **LOGZIO_TOKEN** - _REQUIRED_ - The token to authenticate to the Logz.io
   account that the logs should be sent to.
+- **LOG_LEVEL** - _OPTIONAL_ - This defaults to 'important' logs only, set this 
+  to determine what log messages should be output.
 
 
 
